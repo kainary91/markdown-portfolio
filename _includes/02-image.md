@@ -1,1 +1,1 @@
-![Image of a beautiful Les Paul] (https://images.app.goo.gl/bsG6GDvtHDnYCUxE6)
+![Image of a beautiful Les Paul] (https://octodex.github.com/images/yaktocat.png)
