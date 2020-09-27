@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a beautiful Les Paul] (https://images.app.goo.gl/bsG6GDvtHDnYCUxE6)
